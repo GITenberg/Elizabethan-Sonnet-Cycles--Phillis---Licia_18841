@@ -1,0 +1,39 @@
+_repo: Elizabethan-Sonnet-Cycles--Phillis---Licia_18841
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Lodge, Thomas
+    deathdate: 1625
+    gutenberg_agent_id: '7199'
+    url: http://www.gutenberg.org/2009/agents/7199
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Lodge
+  - agent_name: Fletcher, Giles
+    birthdate: 1548
+    deathdate: 1611
+    gutenberg_agent_id: '8288'
+    url: http://www.gutenberg.org/2009/agents/8288
+    wikipedia: http://en.wikipedia.org/wiki/Giles_Fletcher_the_Elder
+  editor:
+    agent_name: Crow, Martha Foote
+    birthdate: 1854
+    deathdate: 1924
+    gutenberg_agent_id: '6063'
+    url: http://www.gutenberg.org/2009/agents/6063
+description: ''
+gutenberg_issued: '2006-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18841'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sonnets, English'
+- !lcsh 'English poetry -- Early modern, 1500-1700'
+- !lcc 'PR'
+title: 'Elizabethan Sonnet Cycles: Phillis - Licia'
+url: http://www.gutenberg.org/ebooks/18841
